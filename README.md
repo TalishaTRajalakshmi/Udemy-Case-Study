@@ -23,7 +23,7 @@
 - Objective: Sustain and attract new learners.
 - Solution: Develop a Comprehensive Web Development Training Bundle.
 - Specifications:
-- Duration: 120 hours
-- Level: Expert
-- Price: Launch at $49.99 (after a 64% discount from $139.99)
+- - Duration: 120 hours
+- - Level: Expert
+- - Price: Launch at $49.99 (after a 64% discount from $139.99)
 - Features: Weekly paid Zoom sessions with the instructor.
